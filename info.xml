@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="com.aghstrategies.softcreditnotify" type="module">
+  <file>softcreditnotify</file>
+  <name>Soft Credit Notify</name>
+  <description>Adds option to send email to honoree when contribution i smade </description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Tyrell Cook</author>
+    <email>tyrell@aghstrategies.com</email>
+  </maintainer>
+  <releaseDate>2014-12-09</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.5</ver>
+  </compatibility>
+  <comments>Also adds option to notify acknowledged if soft credit acknowledge extension is installed</comments>
+  <civix>
+    <namespace>CRM/Softcreditnotify</namespace>
+  </civix>
+</extension>
